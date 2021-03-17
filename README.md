@@ -1,5 +1,5 @@
 # sneezy
-Sneezy is an unstable mock server for testing purpose.
+Sneezy is mock api server for testing purpose. Run `sneezy` and get whatever response you want.
 
 ## Install
 
