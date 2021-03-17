@@ -1,5 +1,13 @@
 # sneezy
+[![sneezy-mock-api][npm-image]][npm-url]
+
+[npm-url]: https://www.npmjs.com/package/sneezy-mock-api
+[npm-image]: http://img.shields.io/npm/v/sneezy-mock-api.svg?style=flat-square
+
+
 Sneezy is mock api server for testing purpose. Run `sneezy` and get whatever response you want.
+
+
 
 ## Install
 
