@@ -5,9 +5,7 @@
 [npm-image]: http://img.shields.io/npm/v/sneezy-mock-api.svg?style=flat-square
 
 
-Sneezy is mock api server for testing purpose. Run `sneezy` and get whatever response you want.
-
-
+Sneezy is a mock API server for testing purposees. Run `sneezy` and get whatever response you want.
 
 ## Install
 
@@ -27,6 +25,7 @@ npm install -g sneezy-mock-api
     ```
     sneezy --port 9001
     ```
+ - <kbd>Ctrl</kbd> + <kbd>C</kbd> to exit
 ## API
 
 -   `http://localhost:9000/200`  
