@@ -1,0 +1,28 @@
+{
+  "name": "sneezy-mock-api",
+  "version": "1.0.0",
+  "description": "Sneezy is mock api server for testing purpose.",
+  "main": "bin/start-server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atwayne/sneezy.git"
+  },
+  "keywords": [
+    "mock",
+    "sneezy",
+    "api",
+    "test"
+  ],
+  "author": "Wayne",
+  "license": "MIT",
+  "bin": {
+    "sneezy": "./server.js"
+  },
+  "bugs": {
+    "url": "https://github.com/atwayne/sneezy/issues"
+  },
+  "homepage": "https://github.com/atwayne/sneezy#readme"
+}
