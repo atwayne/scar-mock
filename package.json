@@ -1,6 +1,6 @@
 {
   "name": "sneezy-mock-api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sneezy is mock api server for testing purpose.",
   "main": "./lib/server.js",
   "repository": {
