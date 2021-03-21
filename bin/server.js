@@ -14,5 +14,6 @@ const port = getPort();
 const server = require('../lib/server');
 
 http.createServer(server.requestListener).listen(port, () => {
+  // eslint-disable-next-line no-console
   console.log(`Server listening on port ${port}...`);
 });
